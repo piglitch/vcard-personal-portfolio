@@ -834,8 +834,8 @@ main {
  * skills 
  */
 
-.skills-title { margin-bottom: 20px; }
-
+.skills-title { margin-bottom: 20px;}
+.skills-i { color: var(--light-gray-70); font: 15px; }
 .skills-list { padding: 20px; }
 
 
